@@ -30,6 +30,7 @@ pub mod pwr;
 pub mod rcc;
 pub mod rtc;
 pub mod smps;
+pub mod spi;
 pub mod time;
 pub mod tl_mbox;
 pub mod traits;
